@@ -1,0 +1,14 @@
+body {
+    background-color: red;
+    text-align: center;
+    color: blue;
+}
+p {
+    font-size: medium;
+}
+img {
+    vertical-align: center;
+}
+.contact_1{
+    size: 50px;
+}
